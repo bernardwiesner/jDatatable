@@ -54,9 +54,7 @@ include("DB.php");
                 </div>
                 <div class="col-lg-6">
                     <div class="row">
-                        <div class="page-header">
-                            <h4 class="text-center">Search using custom radio buttons</h4>
-                        </div>
+
                     </div>
                     <div class="row">
                       <div class="form-group">
