@@ -2,7 +2,7 @@
 
   define("HOST","localhost");
   define("PORT","3306");
-  define("DATABASE","employees");
+  define("DTABASE","employees");
   define("USER","root");
   define("PASSWORD","mysql");
 
