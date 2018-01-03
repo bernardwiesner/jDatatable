@@ -29,9 +29,7 @@ include("DB.php");
 
             <div class="row">
                 <div class="col-lg-6">
-                    <div class="page-header">
-                        <h4 class="text-center">Custom TextBox search with Checkbox for column filtering</h4>
-                    </div>
+
                     <div class="row">
                         <!-- Search Input -->
                         <div class="input-group">
